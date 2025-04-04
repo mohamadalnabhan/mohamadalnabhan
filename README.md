@@ -1,10 +1,10 @@
-<h2 align="left">👋 Hi there! I'm Mohamed, a passionate mobile app developer currently diving into Flutter and Dart to build functional mobile applications. I'm constantly learning and exploring new technologies to improve my skills. 
+<h2 align="left">👋 Hi there! I'm Mohamed, a passionate mobile app developer </h2>
+<h4>currently diving into Flutter and Dart to build functional mobile applications. I'm constantly learning and exploring new technologies to improve my skills. 
 
 🌱 I'm currently learning mobile app development with Flutter and experimenting with different features like API integration, state management, and UI/UX design.
 
 🔭 I’m open to collaborating on interesting projects and contributing to the open-source community.
-</h2>
-
+</h4> 
 ###
 
 <div align="left">
