@@ -51,12 +51,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mohamadalnabhan/mohamadalnabhan/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVndXMzYW5mbnp2OGN3ZXJtaHlkY2JsYzVqc2w0Z25wODJsMmg1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6vj5quVNRhoQw/giphy.gif"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mohamadalnabhan/mohamadalnabhan/output/snake.svg" alt="Snake animation" />
 
 ###
