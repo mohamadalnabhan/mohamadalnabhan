@@ -1,11 +1,6 @@
-<h2 align="left">👋 Hi there! I'm Mohamed, a passionate mobile app developer </h2>
-<h4>currently diving into Flutter and Dart to build functional mobile applications. I'm constantly learning and exploring new technologies to improve my skills. 
+<h2 align="left">Hi 👋! My name is Mohamad and I'm  Mobile App Developer .</h2>
 
-🌱 I'm currently learning mobile app development with Flutter and experimenting with different features like API integration, state management, and UI/UX design.
-
-🔭 I’m open to collaborating on interesting projects and contributing to the open-source community.
-</h4> 
-
+###
 
 <div align="left">
   <a href="http://www.linkedin.com/in/mohamad-alnabhan-1-2004mo" target="_blank">
@@ -59,6 +54,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mohamadalnabhan/mohamadalnabhan/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamadalnabhan/mohamadalnabhan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamadalnabhan/mohamadalnabhan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamadalnabhan/mohamadalnabhan/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
