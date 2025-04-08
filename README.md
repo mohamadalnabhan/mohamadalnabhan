@@ -1,6 +1,19 @@
-<h2 align="left">Hi 👋! My name is Mohamad and I'm  Mobile App Developer .</h2>
+<h2 align="left">👋 Hi there! I'm Mohamad, a passionate learner diving into the world of **mobile app development** using **Flutter** and **Dart**.  .</h2>
 
-###
+<h4> I'm currently building projects to sharpen my skills and explore everything from UI design to backend integration with tools like **Firebase** and **SQLite**.
+
+🚀 My goal is to create smooth, responsive, and beautiful apps — and to grow into a full-fledged Flutter developer.  
+I love experimenting with new ideas and always aim to write clean, efficient code.
+
+🛠️ Right now, I'm focused on:
+- Mastering Flutter & Dart
+- Working with REST APIs
+- Building full-featured apps with Firebase
+- Exploring state management tools like Provider and GetX
+
+Feel free to check out my projects and connect with me!
+</h4>
+
 
 <div align="left">
   <a href="http://www.linkedin.com/in/mohamad-alnabhan-1-2004mo" target="_blank">
