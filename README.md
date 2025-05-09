@@ -8,7 +8,7 @@ I love experimenting with new ideas and always aim to write clean, efficient cod
 🛠️ Right now, I'm focused on:
 - Mastering Flutter & Dart
 - Working with REST APIs
-- Building full-featured apps with Firebase
+- Building full-featured apps with Firebase and Supabase
 - Exploring state management tools like Provider and GetX
 
 Feel free to check out my projects and connect with me!
